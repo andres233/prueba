@@ -16,5 +16,9 @@
         "jquery": "^3.5",
         "laravel-mix": "^2.0",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "popper.js": "^1.16.1",
+        "vue-router": "^3.5.2"
     }
 }
