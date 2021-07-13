@@ -66,6 +66,7 @@
     }
     .title {
         font-size: 60px;
+        
         color: #ffffff;
     }
 </style>

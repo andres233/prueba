@@ -18255,7 +18255,7 @@ exports = module.exports = __webpack_require__(2)(false);
 
 
 // module
-exports.push([module.i, "\n.small-text[data-v-751a1018] {\n    font-size: 14px;\n}\n.product-box[data-v-751a1018] {\n    border: 1px solid #cccccc;\n    padding: 10px 15px;\n}\n.hero-section[data-v-751a1018] {\n    height: 20vh;\n    background: #ababab;\n    -webkit-box-align: center;\n        -ms-flex-align: center;\n            align-items: center;\n    margin-bottom: 20px;\n    margin-top: -20px;\n}\n.title[data-v-751a1018] {\n    font-size: 60px;\n    color: #ffffff;\n}\n", ""]);
+exports.push([module.i, "\n.small-text[data-v-751a1018] {\n    font-size: 14px;\n}\n.product-box[data-v-751a1018] {\n    border: 1px solid #cccccc;\n    padding: 10px 15px;\n}\n.hero-section[data-v-751a1018] {\n    height: 20vh;\n    background: #ababab;\n    -webkit-box-align: center;\n        -ms-flex-align: center;\n            align-items: center;\n    margin-bottom: 20px;\n    margin-top: -20px;\n}\n.title[data-v-751a1018] {\n    font-size: 60px;\n    \n    color: #ffffff;\n}\n", ""]);
 
 // exports
 
